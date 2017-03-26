@@ -29,6 +29,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 12. [Sazon, Krzysztof](https://github.com/ksazon/cernMap). [CERN Map](https://ksazon.github.io/cernMap/), [geoJSON](https://ksazon.github.io/geoJSON/)
 12. [Wymysłowski, Dawid](https://github.com/garpus/Wymyslowski)
 13. [Zarzycki, Mateusz](https://github.com/MateuszsuetaM/Techniki_internetowe).
+14. [Kulaszewicz, Rafał](https://github.com/rkulaszewicz/TI). [geoJSON](https://rkulaszewicz.github.io/TI/mapa.html)
 
 
 ## Projekty zespołowe (egzamin = średnia z coding challenge i zaliczenia)
