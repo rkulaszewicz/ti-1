@@ -102,7 +102,7 @@ W swoich tabelkach zastosować się do „3½ simple rules” z tego artykułu.
 **NEW!** Przydatne w czasie prezentacji rozwiązań zadań narzędzia: :newspaper: :new:
 
 1. [Sizzy](http://sizzy.co) – A tool for developing responsive websites crazy-fast;
-  [repo](https://github.com/kitze/sizzy)
+  [link do repozytrorium](https://github.com/kitze/sizzy)
 1. Eric Bidelman. [Getting Started with Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome).
   - [Chrome debugging protocol](https://chromedevtools.github.io/debugger-protocol-viewer/)
 
