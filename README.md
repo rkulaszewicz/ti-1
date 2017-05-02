@@ -99,6 +99,13 @@ W swoich tabelkach zastosować się do „3½ simple rules” z tego artykułu.
 * [:japanese_ogre: – dummy image generator](http://satyr.io) –
   może ułatwić przygotowanie prototypu strony z responsywnymi obrazkami
 
+:newspaper: **:new:** Przydatne w czasie prezentacji narzędzia:
+
+1. [Sizzy](http://sizzy.co) – A tool for developing responsive websites crazy-fast;
+  [repo](https://github.com/kitze/sizzy)
+1. Eric Bidelman. [Getting Started with Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome).
+  - [Chrome debugging protocol](https://chromedevtools.github.io/debugger-protocol-viewer/)
+
 ----
 
 > [presentations/projects/solutions needs] <br>
