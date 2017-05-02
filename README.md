@@ -99,7 +99,7 @@ W swoich tabelkach zastosować się do „3½ simple rules” z tego artykułu.
 * [:japanese_ogre: – dummy image generator](http://satyr.io) –
   może ułatwić przygotowanie prototypu strony z responsywnymi obrazkami
 
-:newspaper: **:new:** Przydatne w czasie prezentacji narzędzia:
+Przydatne w czasie prezentacji rozwiązań zadań narzędzia: :newspaper: :new:
 
 1. [Sizzy](http://sizzy.co) – A tool for developing responsive websites crazy-fast;
   [repo](https://github.com/kitze/sizzy)
