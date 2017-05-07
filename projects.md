@@ -42,7 +42,7 @@ Pull request według schematu:
   - [Coding Challenge 2](link do strony z rozwiązaniem)
 ```
 
-14.05.2017
+14.05.2017, aula 1, godz. 8:30
 
 1. [Zeszpołu](https://github.com/ksazon)
   - [20 - Speech Detection](https://github.com/ksazon/speechRecognition)
@@ -54,7 +54,7 @@ Pull request według schematu:
   - [13 - Slide In On Scroll](https://github.com/wojsamjan/slideInOnScroll)
 
 
-28.05.2017
+28.05.2017, aula 1, godz. 8:30
 
 1. [M&M'S](https://github.com/toyorg)
   - [17 - Sort Without Articles](https://github.com/toyorg/SortWithoutArticles)
@@ -65,7 +65,7 @@ Pull request według schematu:
   - [29 Countdown Clock](https://github.com/mrhiyoko/Countdown-Clock)
 
 
-11.06.2017
+11.06.2017, aula 1, godz. 8:30
 
 1. [MASA](https://github.com/marenty)
   - [3 - CSS Variables](https://github.com/marenty/03-CSS-Variables)
