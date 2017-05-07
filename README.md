@@ -152,7 +152,7 @@ jeden z frameworków wymienionych poniżej:
 
 ### Egzamin (projekty zespołowe)
 
-Prezentacje swoich rozwiązań: **28.05** i **11.06.2017**.
+Prezentacje w trakcie wykładu swoich rozwiązań zaczynając od **14.05.2017**, **8:15**, **aula 1**.
 
 Zrealizować kilka projektów ze strony
 [30 Day Vanilla JS Coding Challenge](https://javascript30.com);
