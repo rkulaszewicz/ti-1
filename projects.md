@@ -42,22 +42,33 @@ Pull request według schematu:
   - [Coding Challenge 2](link do strony z rozwiązaniem)
 ```
 
+14.05.2017
+
 1. [Zeszpołu](https://github.com/ksazon)
   - [20 - Speech Detection](https://github.com/ksazon/speechRecognition)
   - [11 - Custom Video Player](https://github.com/ksazon/videoPlayer)
+
 1. [Mr. Bean](https://github.com/wojsamjan?tab=repositories)
   - [2 - CSS + JS CLOCK](https://github.com/wojsamjan/cssJS_Clock)
   - [5 - Flex Panels Image Gallery](https://github.com/wojsamjan/flexPanelsImageGallery)
   - [13 - Slide In On Scroll](https://github.com/wojsamjan/slideInOnScroll)
+
 1. [M&M'S](https://github.com/toyorg)
   - [17 - Sort Without Articles](https://github.com/toyorg/SortWithoutArticles)
   - [24 - Sticky Nav](https://github.com/toyorg/StickyNav)
-1. [MASA](https://github.com/marenty)
-  - [3 - CSS Variables](https://github.com/marenty/03-CSS-Variables)
-  - [27 - Click-and-Drag](https://github.com/marenty/27-Click-and-Drag)
+
 1. [Team Fred](https://github.com/mrhiyoko?tab=repositories)
   - [7 Array Cardio Day 2](https://github.com/mrhiyoko/Array-Cardio-day-2)
   - [29 Countdown Clock](https://github.com/mrhiyoko/Countdown-Clock)
-6. [La Bamba](https://github.com/mlabuda2)
+
+1. [La Bamba](https://github.com/mlabuda2)
   - [26 - Stripe Follow Along Dropdown](https://github.com/mlabuda2/StripeFollowAlongDropdown)
   - [21 - Geolocation based Speedometer and Compass](https://github.com/mlabuda2/GeolocationbasedSpeedometerandCompass)
+
+28.05.2017
+
+11.06.2017
+
+1. [MASA](https://github.com/marenty)
+  - [3 - CSS Variables](https://github.com/marenty/03-CSS-Variables)
+  - [27 - Click-and-Drag](https://github.com/marenty/27-Click-and-Drag)
