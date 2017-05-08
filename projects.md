@@ -15,7 +15,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 1. [Bartos, Michał](https://github.com/toyorg/TI). [Mapa](https://toyorg.github.io/TI/mapa.html), [GeoJSON](https://toyorg.github.io/TI/geojson.html), [Responsywne tabele](https://toyorg.github.io/TI/rtables.html), [Responsywne obrazki](https://toyorg.github.io/TI/rimages.html)
 2. [Bilikiewicz, Semen](https://github.com/sbilikiewicz/TI). [Mapa](https://sbilikiewicz.github.io/TI/cern.html), [GeoJSON](https://sbilikiewicz.github.io/TI/geojson.html) 26.03
 3. [Dzięgielewski, Piotr](https://github.com/dexiefy/Techniki-Internetowe). [Mapa](https://dexiefy.github.io/Techniki-Internetowe/cern.html), [geoJSON](https://dexiefy.github.io/Techniki-Internetowe/geoJSON.html), [Responsive Images /w Gulp](https://dexiefy.github.io/Techniki-Internetowe/responsiveimages.html).
-4. [Gołębiewski, Artur](https://github.com/swiatlamiasta/studia). [Mapa](http://swiatlamiasta.github.io/studia/), , [GeoJSON](http://swiatlamiasta.github.io/studia/leaflet.html).
+4. [Gołębiewski, Artur](https://github.com/swiatlamiasta/studia). [Mapa](http://swiatlamiasta.github.io/studia/), [GeoJSON](http://swiatlamiasta.github.io/studia/leaflet.html), [ResponsiveImg](http://swiatlamiasta.github.io/studia/obrazek.html), [Flexbox](http://swiatlamiasta.github.io/studia/flexb.html).
 5. [Gorzkowski, Michał](https://github.com/mrhiyoko/gulpintro). [Mapa](https://mrhiyoko.github.io/gulpintro/). [Geojson](https://mrhiyoko.github.io/geojson/leaf.html). 26.03
 6. [Januszek, Wojciech](https://github.com/wojsamjan/myGulp501). [Mapa](https://wojsamjan.github.io/myGulp501/cern.html), [GeoJSON](https://wojsamjan.github.io/myGulp501/geojson.html), [MathJax](https://wojsamjan.github.io/myGulp501/mathjax.html) 26.03, [ResponsiveTables](https://wojsamjan.github.io/myGulp501/respotable.html), [ResponsiveImages(https://wojsamjan.github.io/myGulp501/respoimage.html)
 6. [Kamiński, Mateusz](https://github.com/mattiasquat/TI). [Mapa](https://mattiasquat.github.io/TI/map.html), [GeoJSON](https://mattiasquat.github.io/TI/leaflet.html) [Responsively](https://mattiasquat.github.io/TI/responsywnosc.html) 26.03
@@ -53,6 +53,9 @@ Pull request według schematu:
   - [5 - Flex Panels Image Gallery](https://github.com/wojsamjan/flexPanelsImageGallery)
   - [13 - Slide In On Scroll](https://github.com/wojsamjan/slideInOnScroll)
 
+1. [Lepiej późno niż wcale…](https://github.com/garpus)
+  - [10 - Hold-Shift-and-Check-Checkboxes](https://github.com/garpus/10---Hold-Shift-and-Check-Checkboxes)
+  - [12 - Key-Sequence-Detection](https://github.com/garpus/12---Key-Sequence-Detection)
 
 28.05.2017, aula 1, godz. 8:30
 
@@ -61,8 +64,12 @@ Pull request według schematu:
   - [24 - Sticky Nav](https://github.com/toyorg/StickyNav)
 
 1. [Team Fred](https://github.com/mrhiyoko?tab=repositories)
-  - [7 Array Cardio Day 2](https://github.com/mrhiyoko/Array-Cardio-day-2)
-  - [29 Countdown Clock](https://github.com/mrhiyoko/Countdown-Clock)
+  - [7 - Array Cardio Day 2](https://github.com/mrhiyoko/Array-Cardio-day-2)
+  - [29 - Countdown Clock](https://github.com/mrhiyoko/Countdown-Clock)
+
+1.[Supersprawa](https://github.com/kysioo)
+  - [1 - JavaScript Drum Kit](https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
+  - 2 - **JS and CSS Clock** (wcześniej zarezerwowany przez Mr. Bean)
 
 
 11.06.2017, aula 1, godz. 8:30
