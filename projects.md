@@ -45,8 +45,8 @@ Pull request według schematu:
 14.05.2017, aula 1, godz. 8:30
 
 1. [Zeszpołu](https://github.com/ksazon)
-  - [20 - Speech Detection](https://github.com/ksazon/speechRecognition)
-  - [11 - Custom Video Player](https://github.com/ksazon/videoPlayer)
+  - [20 - Speech Detection](https://github.com/ksazon/happyAnimals)
+  - [11 - Custom Video Player](https://github.com/MateuszsuetaM/JavaScript30days_challenge)
 
 1. [Mr. Bean](https://github.com/wojsamjan?tab=repositories)
   - [2 - CSS + JS CLOCK](https://github.com/wojsamjan/cssJS_Clock)
