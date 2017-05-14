@@ -50,7 +50,7 @@ Pull request według schematu:
 
 1. [Mr. Bean](https://github.com/wojsamjan?tab=repositories)
   - [2 - CSS + JS CLOCK](https://github.com/wojsamjan/cssJS_Clock)
-  - [5 - Flex Panels Image Gallery](https://github.com/wojsamjan/flexPanelsImageGallery)
+  - [5 - Flex Panels Image Gallery](https://github.com/dexiefy/Flex_Panels_Image_Gallery)
   - [13 - Slide In On Scroll](https://github.com/wojsamjan/slideInOnScroll)
 
 1. [Lepiej późno niż wcale…](https://github.com/garpus)
