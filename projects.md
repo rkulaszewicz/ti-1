@@ -67,9 +67,9 @@ Pull request według schematu:
   - [6 - Type Ahead](https://github.com/sbilikiewicz/TI)
   - [29 - Countdown Clock](https://github.com/mrhiyoko/Countdown-Clock)
 
-1.[Supersprawa](https://github.com/kysioo)
+1. [Supersprawa](https://github.com/kysioo)
   - [1 - JavaScript Drum Kit](https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
-  - [19 - Webcam Fun] (https://github.com/wesbos/JavaScript30/tree/master/19%20-%20Webcam%20Fun)
+  - [19 - Webcam Fun](https://github.com/wesbos/JavaScript30/tree/master/19%20-%20Webcam%20Fun)
 
 
 11.06.2017, aula 1, godz. 8:30
