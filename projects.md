@@ -68,7 +68,7 @@ Pull request według schematu:
   - [29 - Countdown Clock](https://github.com/mrhiyoko/Countdown-Clock)
 
 1. [Supersprawa](https://github.com/kysioo)
-  - [1 - JavaScript Drum Kit](https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
+  - [23 - Speech Synthesis](https://github.com/wesbos/JavaScript30/tree/master/23%20-%20Speech%20Synthesis)
   - [19 - Webcam Fun](https://github.com/wesbos/JavaScript30/tree/master/19%20-%20Webcam%20Fun)
 
 
