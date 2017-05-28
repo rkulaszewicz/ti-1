@@ -64,7 +64,7 @@ Pull request według schematu:
   - [24 - Sticky Nav](https://github.com/toyorg/StickyNav)
 
 1. [Team Fred](https://github.com/mrhiyoko?tab=repositories)
-  - [7 - Array Cardio Day 2](https://github.com/mrhiyoko/Array-Cardio-day-2)
+  - [6 - Type Ahead](https://github.com/sbilikiewicz/TI)
   - [29 - Countdown Clock](https://github.com/mrhiyoko/Countdown-Clock)
 
 1.[Supersprawa](https://github.com/kysioo)
